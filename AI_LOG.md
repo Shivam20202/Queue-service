@@ -136,7 +136,7 @@ This was important because it verified not only that the tests passed, but that 
 
 ## 4. Share of code that was AI-generated
 
-Approximately **90–100% of the initial implementation was AI-generated**, including most application code, tests and documentation.
+Approximately 90% of the initial implementation was AI-generated or AI-assisted
 
 The code was not accepted purely because it was generated.
 
